@@ -2,8 +2,7 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_cell","order":1,"path":"objects/obj_cell/obj_cell.yy",},
-    {"name":"obj_eggy","order":2,"path":"objects/obj_eggy/obj_eggy.yy",},
-    {"name":"obj_lemon","order":3,"path":"objects/obj_lemon/obj_lemon.yy",},
+    {"name":"obj_pair","order":2,"path":"objects/obj_pair/obj_pair.yy",},
     {"name":"spr_cell","order":1,"path":"sprites/spr_cell/spr_cell.yy",},
   ],
 }
