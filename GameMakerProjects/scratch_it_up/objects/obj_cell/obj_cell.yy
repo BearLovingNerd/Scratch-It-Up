@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wah",
+  "%Name":"obj_cell",
   "eventList":[],
   "managed":true,
-  "name":"obj_wah",
+  "name":"obj_cell",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_cell",
+    "path":"sprites/spr_cell/spr_cell.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
