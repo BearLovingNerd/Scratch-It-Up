@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cell",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_lemon",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cell",
+  "name":"obj_lemon",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_cell",
-    "path":"sprites/spr_cell/spr_cell.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

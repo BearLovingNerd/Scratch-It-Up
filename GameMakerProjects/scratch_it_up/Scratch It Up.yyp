@@ -37,6 +37,7 @@
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},},
     {"id":{"name":"obj_cell","path":"objects/obj_cell/obj_cell.yy",},},
     {"id":{"name":"obj_eggy","path":"objects/obj_eggy/obj_eggy.yy",},},
+    {"id":{"name":"obj_lemon","path":"objects/obj_lemon/obj_lemon.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_card","path":"sprites/spr_card/spr_card.yy",},},
     {"id":{"name":"spr_cell","path":"sprites/spr_cell/spr_cell.yy",},},
