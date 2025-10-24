@@ -1,0 +1,1 @@
+show_message("my pairs are: " + string(pair) + "my triples are: " + string(triple))
