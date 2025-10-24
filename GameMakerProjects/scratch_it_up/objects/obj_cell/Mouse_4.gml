@@ -1,1 +1,1 @@
-my_function("egg", "eggy")
+on_reveal()
