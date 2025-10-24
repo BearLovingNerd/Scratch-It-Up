@@ -3,7 +3,6 @@
   "ResourceOrderSettings":[
     {"name":"obj_cell","order":1,"path":"objects/obj_cell/obj_cell.yy",},
     {"name":"obj_pair","order":2,"path":"objects/obj_pair/obj_pair.yy",},
-    {"name":"obj_wah2","order":3,"path":"objects/obj_wah2/obj_wah2.yy",},
     {"name":"spr_cell","order":1,"path":"sprites/spr_cell/spr_cell.yy",},
   ],
 }

@@ -37,7 +37,6 @@
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},},
     {"id":{"name":"obj_cell","path":"objects/obj_cell/obj_cell.yy",},},
     {"id":{"name":"obj_pair","path":"objects/obj_pair/obj_pair.yy",},},
-    {"id":{"name":"obj_wah2","path":"objects/obj_wah2/obj_wah2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_card","path":"sprites/spr_card/spr_card.yy",},},
     {"id":{"name":"spr_cell","path":"sprites/spr_cell/spr_cell.yy",},},

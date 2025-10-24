@@ -7,3 +7,7 @@ for (var i = 0; i < 5; i++){
 	}
 	
 }
+
+// Establish Vars
+pair = 0;
+triple = 0;
